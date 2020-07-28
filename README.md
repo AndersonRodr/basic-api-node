@@ -1,12 +1,13 @@
 # This is a basic API using nodejs;
 All code was based basic course about javascript by Rocketseat.
+
 Steps:
-To install *node*;
-To install *chocolatey*;
-Run: npom init -y;
-To install *express*;
-Create main file for aplication: server.js;
-To install *nodemon*: npm install -D nodemon
+  - To install *node*;
+  - To install *chocolatey*;
+  - Run: npom init -y;
+  - To install *express*;
+  - Create main file for aplication: server.js;
+  - To install *nodemon*: npm install -D nodemon
 
 Database:
 Run *mongo* in docker:
